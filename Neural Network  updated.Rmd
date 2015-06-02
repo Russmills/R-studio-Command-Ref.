@@ -62,9 +62,3 @@ used when multiple variables are in one function.
  f=function(x,y){x+y}
  mapply(f,l$x,l$y)
 ```
-02
-
-l
-```{r}
- l=lis(1,2)
-```
